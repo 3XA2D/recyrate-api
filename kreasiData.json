@@ -1,0 +1,74 @@
+[
+    {
+        "nama_kreasi": "Vas Bunga dari Botol Plastik",
+        "tag": "fb-botol-p",
+        "tingkat_kesulitan": 2,
+        "link_instruksi": "https://contohwebsite.com/vas-bunga-botol-plastik",
+        "alat": ["Gunting", "Lem", "Cat"],
+        "bahan": ["Botol Plastik", "Cat", "Benang"],
+        "langkah": [
+            "Potong bagian atas botol plastik.",
+            "Bersihkan botol dan cat sesuai warna yang diinginkan.",
+            "Gulung benang di sekitar botol.",
+            "Tambahkan bunga ke dalam vas."
+        ]
+    },
+    {
+        "nama_kreasi": "Tempat Pensil dari Botol Beling",
+        "tag": "fb-botol-b",
+        "tingkat_kesulitan": 3,
+        "link_instruksi": "https://contohwebsite.com/tempat-pensil-botol-beling",
+        "alat": ["Gunting", "Lem", "Kain Flanel"],
+        "bahan": ["Botol Beling", "Kain Flanel", "Kertas"],
+        "langkah": [
+            "Potong botol beling menjadi dua bagian.",
+            "Balut bagian luar dengan kain flanel.",
+            "Tambahkan kertas di bagian atas botol sebagai penutup.",
+            "Dekorasi dengan gambar atau stiker sesuai keinginan."
+        ]
+    },
+    {
+        "nama_kreasi": "Kotak Penyimpanan dari Kardus",
+        "tag": "fb-kardus",
+        "tingkat_kesulitan": 1,
+        "link_instruksi": "https://contohwebsite.com/kotak-penyimpanan-kardus",
+        "alat": ["Gunting", "Lem", "Penggaris"],
+        "bahan": ["Kardus", "Kain Bekas", "Lem"],
+        "langkah": [
+            "Potong kardus sesuai ukuran yang diinginkan.",
+            "Rekatkan bagian-bagian kardus dengan lem.",
+            "Balut sisi luar kardus dengan kain bekas.",
+            "Tambahkan pegangan dari kain atau benang di sisi kotak."
+        ]
+    },
+    {
+        "nama_kreasi": "Lampu Hias dari Kaleng",
+        "tag": "fb-kaleng",
+        "tingkat_kesulitan": 4,
+        "link_instruksi": "https://contohwebsite.com/lampu-hias-kaleng",
+        "alat": ["Palu", "Paku", "Lem", "Lampu LED"],
+        "bahan": ["Kaleng Bekas", "Lampu LED", "Cat", "Paku"],
+        "langkah": [
+            "Bersihkan kaleng dan cat sesuai warna yang diinginkan.",
+            "Buat lubang di sisi kaleng dengan paku.",
+            "Pasang lampu LED di dalam kaleng.",
+            "Dekorasi kaleng dengan bahan lain seperti pita atau bunga."
+        ]
+    },
+    {
+        "nama_kreasi": "Miniatur Kapal dari Kardus dan Kaleng",
+        "tag": "fb-kardus,fb-kaleng",
+        "tingkat_kesulitan": 4,
+        "link_instruksi": "https://contohwebsite.com/miniatur-kapal-kardus-kaleng",
+        "alat": ["Gunting", "Lem", "Paku", "Cat"],
+        "bahan": ["Kardus", "Kaleng Bekas", "Lem", "Cat", "Benang"],
+        "langkah": [
+            "Potong kardus untuk membuat dasar kapal.",
+            "Gunakan kaleng bekas untuk membuat tubuh kapal.",
+            "Rekatkan bagian-bagian kapal dengan lem.",
+            "Cat kapal dengan warna yang diinginkan.",
+            "Tambahkan benang sebagai tali untuk kapal."
+        ]
+    }
+]
+
