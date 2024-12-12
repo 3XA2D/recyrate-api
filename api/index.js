@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 // URL to fetch kreasi data
-const jsonUrl = 'https://github.com/3XA2D/recyrate-api/raw/refs/heads/main/api/kreasiData.json';
+const jsonUrl = 'https://raw.githubusercontent.com/3XA2D/recyrate-api/main/api/kreasiData.json';
 
 // Initialize kreasiData globally
 let kreasiData = [];
