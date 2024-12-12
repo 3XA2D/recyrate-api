@@ -2,52 +2,83 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const fs = require('fs');
-const path = require('path');
+const axios = require('axios');
 
-// Membuat aplikasi Express
 const app = express();
+const port = 8080;
+const validBahan = ["fb-botol-p", "fb-botol-b", "fb-kardus", "fb-kaleng"];
+
 app.use(bodyParser.json());
 app.use(cors());
 
-// Memuat data dari file JSON
-const dataPath = path.join(process.cwd(), 'kreasiData.json');
-let kreasiData = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+// URL to fetch kreasi data
+const jsonUrl = 'https://github.com/3XA2D/recyrate-api/raw/refs/heads/main/api/kreasiData.json';
 
-// Endpoint untuk mendapatkan semua data
-app.get('/api/kreasi', (req, res) => {
-    res.json(kreasiData);
+// Initialize kreasiData globally
+let kreasiData = [];
+
+// Function to load data from URL
+async function fetchData() {
+    try {
+        const response = await axios.get(jsonUrl);
+        kreasiData = response.data; // Store data in the global variable
+    } catch (error) {
+        console.error('Failed to load data:', error.message);
+    }
+}
+
+// Load initial data when the server starts
+fetchData();
+
+// Endpoint to get all kreasi data
+app.get('/api/kreasi', async (req, res) => {
+    res.json(kreasiData); // Return the loaded kreasi data
 });
 
-// Endpoint untuk menambahkan data baru
+// Endpoint to add a new kreasi
 app.post('/api/kreasi', (req, res) => {
     const newKreasi = req.body;
 
     if (!newKreasi.nama_kreasi || !newKreasi.tag || !newKreasi.tingkat_kesulitan || !newKreasi.link_instruksi) {
-        return res.status(400).json({ message: "Semua data harus diisi" });
+        return res.status(400).json({ message: "All fields are required" });
     }
 
     kreasiData.push(newKreasi);
 
-    // Simpan data kembali ke file JSON
+    // Write the updated data back to the file (assuming you're saving it locally)
+    const dataPath = path.join(__dirname, 'kreasiData.json');
     fs.writeFileSync(dataPath, JSON.stringify(kreasiData, null, 2), 'utf-8');
-    res.status(201).json({ message: "Kreasi berhasil ditambahkan", data: newKreasi });
+
+    res.status(201).json({ message: "Kreasi successfully added", data: newKreasi });
 });
 
-// Endpoint untuk memfilter data
+// Endpoint to filter kreasi by tag and difficulty
 app.get('/api/kreasi/filter', (req, res) => {
     const { bahan, kesulitan } = req.query;
 
     const bahanArray = bahan ? (Array.isArray(bahan) ? bahan : [bahan]) : [];
     const kesulitanArray = kesulitan ? (Array.isArray(kesulitan) ? kesulitan : [kesulitan]) : [];
 
+    // Check if there are invalid bahan
+    const invalidBahan = bahanArray.filter(b => !validBahan.includes(b));
+    if (invalidBahan.length > 0) {
+        return res.status(400).json({
+            message: "Invalid bahan provided.",
+            invalidBahan,
+            validBahan
+        });
+    }
+
     const filteredData = kreasiData.filter(kreasi => {
         const matchBahan = bahanArray.length === 0 || bahanArray.includes(kreasi.tag);
         const matchKesulitan = kesulitanArray.length === 0 || kesulitanArray.includes(String(kreasi.tingkat_kesulitan));
-        return matchBahan || matchKesulitan; // Logika "atau"
+        return matchBahan && matchKesulitan; // "AND" logic
     });
 
     res.json(filteredData);
 });
 
-// Mengekspor aplikasi untuk digunakan di Vercel
-module.exports = app;
+app.listen(port, () => {
+    console.log(`Server running at http://localhost:${port}`);
+});
+

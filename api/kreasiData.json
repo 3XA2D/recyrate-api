@@ -3,7 +3,6 @@
         "nama_kreasi": "Vas Bunga dari Botol Plastik",
         "tag": "fb-botol-p",
         "tingkat_kesulitan": 2,
-        "link_instruksi": "https://contohwebsite.com/vas-bunga-botol-plastik",
         "alat": ["Gunting", "Lem", "Cat"],
         "bahan": ["Botol Plastik", "Cat", "Benang"],
         "langkah": [
@@ -17,7 +16,6 @@
         "nama_kreasi": "Tempat Pensil dari Botol Beling",
         "tag": "fb-botol-b",
         "tingkat_kesulitan": 3,
-        "link_instruksi": "https://contohwebsite.com/tempat-pensil-botol-beling",
         "alat": ["Gunting", "Lem", "Kain Flanel"],
         "bahan": ["Botol Beling", "Kain Flanel", "Kertas"],
         "langkah": [
@@ -31,7 +29,6 @@
         "nama_kreasi": "Kotak Penyimpanan dari Kardus",
         "tag": "fb-kardus",
         "tingkat_kesulitan": 1,
-        "link_instruksi": "https://contohwebsite.com/kotak-penyimpanan-kardus",
         "alat": ["Gunting", "Lem", "Penggaris"],
         "bahan": ["Kardus", "Kain Bekas", "Lem"],
         "langkah": [
@@ -45,7 +42,6 @@
         "nama_kreasi": "Lampu Hias dari Kaleng",
         "tag": "fb-kaleng",
         "tingkat_kesulitan": 4,
-        "link_instruksi": "https://contohwebsite.com/lampu-hias-kaleng",
         "alat": ["Palu", "Paku", "Lem", "Lampu LED"],
         "bahan": ["Kaleng Bekas", "Lampu LED", "Cat", "Paku"],
         "langkah": [
@@ -59,7 +55,6 @@
         "nama_kreasi": "Miniatur Kapal dari Kardus dan Kaleng",
         "tag": "fb-kardus,fb-kaleng",
         "tingkat_kesulitan": 4,
-        "link_instruksi": "https://contohwebsite.com/miniatur-kapal-kardus-kaleng",
         "alat": ["Gunting", "Lem", "Paku", "Cat"],
         "bahan": ["Kardus", "Kaleng Bekas", "Lem", "Cat", "Benang"],
         "langkah": [
