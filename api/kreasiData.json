@@ -5,6 +5,8 @@
         "tingkat_kesulitan": 2,
         "alat": ["Gunting", "Lem", "Cat"],
         "bahan": ["Botol Plastik", "Cat", "Benang"],
+        "thumbnail": "https://i.ytimg.com/vi/zxYUkE9gPIs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQEf3ndoEUqhkxuphKiDOEgjQOKw",
+        "video": "https://www.youtube.com/watch?v=zxYUkE9gPIs&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=1&pp=iAQB",
         "langkah": [
             "Potong bagian atas botol plastik.",
             "Bersihkan botol dan cat sesuai warna yang diinginkan.",
@@ -18,6 +20,8 @@
         "tingkat_kesulitan": 3,
         "alat": ["Gunting", "Lem", "Kain Flanel"],
         "bahan": ["Botol Beling", "Kain Flanel", "Kertas"],
+        "thumbnail": "https://i.ytimg.com/vi/sAbpIkRx01k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDvnC2s5wgo3j4FiDg8GLg8KzM2cQ",
+        "video": "https://www.youtube.com/watch?v=sAbpIkRx01k&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=3&pp=iAQB",
         "langkah": [
             "Potong botol beling menjadi dua bagian.",
             "Balut bagian luar dengan kain flanel.",
@@ -26,11 +30,13 @@
         ]
     },
     {
-        "nama_kreasi": "Kotak Penyimpanan dari Kardus",
+        "nama_kreasi": "Celengan dari Kardus",
         "tag": "fb-kardus",
         "tingkat_kesulitan": 1,
         "alat": ["Gunting", "Lem", "Penggaris"],
         "bahan": ["Kardus", "Kain Bekas", "Lem"],
+        "thumbnail": "https://i.ytimg.com/vi/giyroLtvfNQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCN4xLXDvN5rBfxOYh7MENX4XrC5Q",
+        "video": "https://www.youtube.com/watch?v=giyroLtvfNQ&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=7&pp=iAQB",
         "langkah": [
             "Potong kardus sesuai ukuran yang diinginkan.",
             "Rekatkan bagian-bagian kardus dengan lem.",
@@ -44,6 +50,8 @@
         "tingkat_kesulitan": 4,
         "alat": ["Palu", "Paku", "Lem", "Lampu LED"],
         "bahan": ["Kaleng Bekas", "Lampu LED", "Cat", "Paku"],
+        "thumbnail": "https://i.ytimg.com/vi/jhMA8_-4PmE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEv-NxA9nyKDszCufk4prN1RN02Q",
+        "video": "https://www.youtube.com/watch?v=jhMA8_-4PmE&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=9&pp=iAQB",
         "langkah": [
             "Bersihkan kaleng dan cat sesuai warna yang diinginkan.",
             "Buat lubang di sisi kaleng dengan paku.",
@@ -57,6 +65,8 @@
         "tingkat_kesulitan": 4,
         "alat": ["Gunting", "Lem", "Paku", "Cat"],
         "bahan": ["Kardus", "Kaleng Bekas", "Lem", "Cat", "Benang"],
+        "thumbnail": "https://i.ytimg.com/vi/EZcTwYnbhwI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwRqfD6Q1fmDWCaEUkZsVjqZkIGQ",
+        "video": "https://www.youtube.com/watch?v=EZcTwYnbhwI&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=11&pp=iAQB",
         "langkah": [
             "Potong kardus untuk membuat dasar kapal.",
             "Gunakan kaleng bekas untuk membuat tubuh kapal.",
