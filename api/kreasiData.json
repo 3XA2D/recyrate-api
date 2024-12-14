@@ -3,8 +3,16 @@
         "nama_kreasi": "Vas Bunga dari Botol Plastik",
         "tag": "fb-botol-p",
         "tingkat_kesulitan": 2,
-        "alat": ["Gunting", "Lem", "Cat"],
-        "bahan": ["Botol Plastik", "Cat", "Benang"],
+        "alat": [
+            "Gunting",
+            "Lem",
+            "Cat"
+        ],
+        "bahan": [
+            "Botol Plastik",
+            "Cat",
+            "Benang"
+        ],
         "thumbnail": "https://i.ytimg.com/vi/zxYUkE9gPIs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQEf3ndoEUqhkxuphKiDOEgjQOKw",
         "video": "https://www.youtube.com/watch?v=zxYUkE9gPIs&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=1&pp=iAQB",
         "deskripsi": "Cara membuat vas bunga atau pot bunga yang menarik dengan memanfaatkan botol bekas air minum. Ide kreatif ini memungkinkan Anda mengubah botol plastik bekas menjadi dekorasi yang indah untuk rumah."
@@ -12,9 +20,17 @@
     {
         "nama_kreasi": "Tempat Pensil dari Botol Beling",
         "tag": "fb-botol-b",
-        "tingkat_kesulitan": 3,
-        "alat": ["Gunting", "Lem", "Kain Flanel"],
-        "bahan": ["Botol Beling", "Kain Flanel", "Kertas"],
+        "tingkat_kesulitan": 2,
+        "alat": [
+            "Gunting",
+            "Lem",
+            "Kain Flanel"
+        ],
+        "bahan": [
+            "Botol Beling",
+            "Kain Flanel",
+            "Kertas"
+        ],
         "thumbnail": "https://i.ytimg.com/vi/sAbpIkRx01k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDvnC2s5wgo3j4FiDg8GLg8KzM2cQ",
         "video": "https://www.youtube.com/watch?v=sAbpIkRx01k&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=3&pp=iAQB",
         "deskripsi": "Tutorial ini mengajarkan cara membuat tempat pensil yang unik dan berguna dari botol kaca bekas. Dengan sedikit kreativitas, botol kaca bekas bisa menjadi tempat penyimpanan yang praktis dan estetis."
@@ -22,9 +38,17 @@
     {
         "nama_kreasi": "Celengan dari Kardus",
         "tag": "fb-kardus",
-        "tingkat_kesulitan": 1,
-        "alat": ["Gunting", "Lem", "Penggaris"],
-        "bahan": ["Kardus", "Kain Bekas", "Lem"],
+        "tingkat_kesulitan": 2,
+        "alat": [
+            "Gunting",
+            "Lem",
+            "Penggaris"
+        ],
+        "bahan": [
+            "Kardus",
+            "Kain Bekas",
+            "Lem"
+        ],
         "thumbnail": "https://i.ytimg.com/vi/giyroLtvfNQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCN4xLXDvN5rBfxOYh7MENX4XrC5Q",
         "video": "https://www.youtube.com/watch?v=giyroLtvfNQ&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=7&pp=iAQB",
         "deskripsi": "Di sini, Anda akan belajar cara membuat celengan dari kardus bekas, sebuah proyek DIY yang mudah dan menyenangkan. Selain berfungsi untuk menabung, celengan ini juga bisa menjadi hiasan menarik."
@@ -33,21 +57,182 @@
         "nama_kreasi": "Lentera dari Kaleng",
         "tag": "fb-kaleng",
         "tingkat_kesulitan": 4,
-        "alat": ["Palu", "Paku", "Lem", "Lampu LED"],
-        "bahan": ["Kaleng Bekas", "Lampu LED", "Cat", "Paku"],
+        "alat": [
+            "Palu",
+            "Paku",
+            "Lem",
+            "Lampu LED"
+        ],
+        "bahan": [
+            "Kaleng Bekas",
+            "Lampu LED",
+            "Cat",
+            "Paku"
+        ],
         "thumbnail": "https://i.ytimg.com/vi/jhMA8_-4PmE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEv-NxA9nyKDszCufk4prN1RN02Q",
         "video": "https://www.youtube.com/watch?v=jhMA8_-4PmE&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=9&pp=iAQB",
-       "deskripsi": "Dalam video ini, Anda akan dipandu untuk membuat lentera dari kaleng bekas. Proyek kerajinan ini menghasilkan lentera yang indah, memberikan pencahayaan yang lembut, dan memberikan tampilan yang unik di ruang Anda."
+        "deskripsi": "Dalam video ini, Anda akan dipandu untuk membuat lentera dari kaleng bekas. Proyek kerajinan ini menghasilkan lentera yang indah, memberikan pencahayaan yang lembut, dan memberikan tampilan yang unik di ruang Anda."
     },
     {
         "nama_kreasi": "Miniatur Kapal dari Kardus dan Kaleng",
-        "tag": "fb-kardus,fb-kaleng",
-        "tingkat_kesulitan": 4,
-        "alat": ["Gunting", "Lem", "Paku", "Cat"],
-        "bahan": ["Kardus", "Kaleng Bekas", "Lem", "Cat", "Benang"],
+        "tag": "fb-kaleng",
+        "tingkat_kesulitan": 5,
+        "alat": [
+            "Gunting",
+            "Lem",
+            "Paku",
+            "Cat"
+        ],
+        "bahan": [
+            "Kardus",
+            "Kaleng Bekas",
+            "Lem",
+            "Cat",
+            "Benang"
+        ],
         "thumbnail": "https://i.ytimg.com/vi/EZcTwYnbhwI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVvKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCwRqfD6Q1fmDWCaEUkZsVjqZkIGQ",
         "video": "https://www.youtube.com/watch?v=EZcTwYnbhwI&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=11&pp=iAQB",
         "deskripsi": "Video ini mengajarkan cara membuat replika kapal dari kaleng bekas dan kardus, sebuah proyek kerajinan tangan yang menyenangkan untuk semua usia. Cocok sebagai hiasan atau bahkan mainan edukatif bagi anak-anak."
+    },
+    {
+        "nama_kreasi": "Tas Belanja Dari Tutup Botol Plastik",
+        "tag": "fb-botol-p",
+        "tingkat_kesulitan": 4,
+        "alat": [
+            "Gunting",
+            "Paku / Solder"
+        ],
+        "bahan": [
+            "Tutup botol plastik",
+            "Kabel tis"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi_webp/MqcjUWwCsFg/hqdefault.webp",
+        "video": "https://m.youtube.com/watch?v=MqcjUWwCsFg&list=PLVEYMtsnPYmB-pExbqaaHCTC8bfDhmh8X&index=5&t=145s&pp=iAQB",
+        "deskripsi": "Video ini menampilkan ide kreatif dalam memanfaatkan tutup botol bekas untuk membuat tas belanja yang kokoh dan tahan lama. Prosesnya melibatkan langkah-langkah praktis dan inovatif, seperti menyusun tutup botol menjadi pola tertentu, merekatkannya dengan kuat, serta menambahkan pegangan untuk membentuk tas yang fungsional. Hasil akhirnya adalah tas belanja unik yang tidak hanya ramah lingkungan, tetapi juga estetik dan sangat berguna untuk mengurangi penggunaan kantong plastik. Video ini menginspirasi untuk mendaur ulang barang bekas menjadi produk bernilai guna tinggi."
+    },
+    {
+        "nama_kreasi": "Tempat Pensil Dari Botol Plastik",
+        "tag": "fb-botol-p",
+        "tingkat_kesulitan": 1,
+        "alat": [
+            "Gunting",
+            "Lem"
+        ],
+        "bahan": [
+            "Botol plastik",
+            "Sedotan"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/kGPr8xkl_1A/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmdXC2HQIfPvDdinNdrz23GtslhA",
+        "video": "https://m.youtube.com/watch?v=kGPr8xkl_1A&pp=ygUXa2VyYWppbmFuIGJvdG9sIHBsYXN0aWs%3D",
+        "deskripsi": "Video ini memberikan panduan cara membuat tempat pensil unik dari botol plastik bekas dan sedotan sebagai upaya memanfaatkan limbah plastik dengan kreatif. Proyek ini cocok untuk berbagai kalangan, terutama anak-anak, untuk mengasah kreativitas dan kesadaran lingkungan."
+    },
+    {
+        "nama_kreasi": "Pohon Palem Dari Botol Plastik",
+        "tag": "fb-botol-p",
+        "tingkat_kesulitan": 5,
+        "alat": [
+            "Gunting",
+            "Lem tembak"
+        ],
+        "bahan": [
+            "Botol plastik",
+            "Cat",
+            "Semen putih",
+            "Tisu",
+            "Kantong plastik"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/IBA0eCO9GRA/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc9zbjWlPzrKe1jFii89rDPQJiSg",
+        "video": "https://m.youtube.com/watch?v=IBA0eCO9GRA&t=529s&pp=ygUda2VyYWppbmFuIGJvdG9sIHBsYXN0aWsgcnVtaXQ%3D",
+        "deskripsi": "Video ini menampilkan langkah-langkah kreatif untuk membuat pohon kelapa dari botol plastik bekas, seperti botol Sprite. Proyek DIY (Do It Yourself) ini adalah cara yang menyenangkan untuk mendaur ulang botol plastik menjadi dekorasi unik dan ramah lingkungan."
+    },
+    {
+        "nama_kreasi": "Gelas Dari Botol Beling",
+        "tag": "fb-botol-b",
+        "tingkat_kesulitan": 1,
+        "alat": [
+            "Benang"
+        ],
+        "bahan": [
+            "Botol beling"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/hUaSj2fcOgc/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuNIIKOn0TpdKvu-300CDb7_q3nQ",
+        "video": "https://m.youtube.com/watch?v=hUaSj2fcOgc&pp=ygUWa2VyYWppbmFuIGJvdG9sIGJlbGluZw%3D%3D",
+        "deskripsi": "Video ini menampilkan cara sederhana dan efektif untuk memotong botol kaca bekas tanpa menggunakan alat khusus. Teknik ini dapat dilakukan dengan bahan-bahan yang mudah ditemukan di rumah. Botol kaca yang dipotong bisa diubah menjadi berbagai barang fungsional, seperti gelas, vas bunga, atau dekorasi."
+    },
+    {
+        "nama_kreasi": "Teko dan Cangkir Dari Kaleng",
+        "tag": "fb-kaleng",
+        "tingkat_kesulitan": 4,
+        "alat": [
+            "Lem",
+            "Cutter",
+            "Amplas"
+        ],
+        "bahan": [
+            "Kaleng"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/nOEGsG1Oc7E/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-pYECkzZ-K1GJOYQkrA_PZuJjKQ",
+        "video": "https://m.youtube.com/watch?v=nOEGsG1Oc7E&pp=ygUWa2VyYWppbmFuIGthbGVuZyBiZWthcw%3D%3D",
+        "deskripsi": "Video ini menampilkan cara kreatif untuk membuat teko dan cangkir mainan dari kaleng bekas minuman soda. Proyek ini tidak hanya menyenangkan tetapi juga memberikan cara mendaur ulang kaleng bekas menjadi barang miniatur yang menarik dan fungsional untuk mainan atau dekorasi."
+    },
+    {
+        "nama_kreasi": "Bingkai Foto Dari Kardus",
+        "tag": "fb-kardus",
+        "tingkat_kesulitan": 1,
+        "alat": [
+            "Lem",
+            "Cutter"
+        ],
+        "bahan": [
+            "Kardus"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/_FZURaYwNs4/hq720.jpg?sqp=-oaymwE2CK4FEIIDSEbyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFQoPjAP&rs=AOn4CLDVkfdSforu82Hq4oAI1z9IpAiNCg",
+        "video": "https://m.youtube.com/watch?v=_FZURaYwNs4&pp=ygUQa2VyYWppbmFuIGthcmR1cw%3D%3D",
+        "deskripsi": "Video ini memberikan panduan langkah-langkah untuk membuat bingkai foto yang unik dan menarik dari kardus bekas. Proyek ini tidak hanya membantu mengurangi limbah, tetapi juga memungkinkan Anda menciptakan dekorasi rumah yang personal dan ramah lingkungan."
+    },
+    {
+        "nama_kreasi": "Kapal Pinisi Dari Kardus",
+        "tag": "fb-kardus",
+        "tingkat_kesulitan": 5,
+        "alat": [
+            "Lem",
+            "Cutter"
+        ],
+        "bahan": [
+            "Kardus"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/-sOYn981il4/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW1KINVbNb_o0QAZZbAs3sRPp06Q",
+        "video": "https://m.youtube.com/watch?v=-sOYn981il4&pp=ygUQa2VyYWppbmFuIGthcmR1cw%3D%3D",
+        "deskripsi": "Video ini menampilkan panduan langkah-langkah untuk membuat miniatur kapal Pinisi dari kardus bekas. Proyek ini adalah cara kreatif dan menyenangkan untuk mendaur ulang kardus menjadi karya seni yang indah dan bernilai budaya."
+    },
+    {
+        "nama_kreasi": "Tempat Sampah Injak Dari Kardus",
+        "tag": "fb-kardus",
+        "tingkat_kesulitan": 4,
+        "alat": [
+            "Lem",
+            "Cutter"
+        ],
+        "bahan": [
+            "Kardus"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/1ee2jKR7oy0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhYcILl3ZosKskudTxvVhmupTykw",
+        "video": "https://m.youtube.com/watch?v=1ee2jKR7oy0&pp=ygUQa2VyYWppbmFuIGthcmR1cw%3D%3D",
+        "deskripsi": "tempat sampah injak yang fungsional menggunakan kardus bekas. Proyek ini memanfaatkan bahan sederhana dengan teknik yang mudah diikuti, menciptakan solusi ramah lingkungan untuk keperluan rumah tangga."
+    },
+    {
+        "nama_kreasi": "Laci Mini Dari Kardus",
+        "tag": "fb-kardus",
+        "tingkat_kesulitan": 3,
+        "alat": [
+            "Lem",
+            "Cutter"
+        ],
+        "bahan": [
+            "Kardus"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/8gtf6kOEIC0/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASnDF-T2JbtgWevZam_2eX869gMQ",
+        "video": "https://m.youtube.com/watch?v=8gtf6kOEIC0&pp=ygUQa2VyYWppbmFuIGthcmR1cw%3D%3D",
+        "deskripsi": "Video ini menunjukkan cara membuat laci mini yang praktis dan kreatif dari kardus bekas. Proyek ini sangat cocok untuk menyimpan barang-barang kecil di meja atau ruang belajar, dan juga sebagai contoh bagaimana mengubah kardus bekas menjadi sesuatu yang berguna dan fungsional."
     }
 ]
-
